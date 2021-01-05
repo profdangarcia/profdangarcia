@@ -1,8 +1,8 @@
-<img align='right' src="https://dangarcia-devel.vercel.app/favicon.ico">
-
 ## Hey! My name is <strong>Daniel Garcia</strong>
 
 <br />
+
+<img align='right' src="https://dangarcia-devel.vercel.app/favicon.ico">
 
 💬 I'm a Front-end Developer.
 
