@@ -6,9 +6,9 @@
 
 💬 I'm a Front-end Developer.
 
-🔭 Currentig working for [Catho](https://catho.com.br/).
+🔭 Currenting working for [Catho](https://catho.com.br/).
 
-❤️ And I really love coffe.
+❤️ And I really love coffee.
 
 <p align='center'> ☕ Visit my <a href="https://dangarcia-devel.vercel.app/" target="_blank">Portfólio</a></p> 
 
