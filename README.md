@@ -6,7 +6,7 @@
 
 💬 I'm a Front-end Developer.
 
-🔭 Currenting working for [Catho](https://catho.com.br/).
+🔭 Currenting working for [Americanas SA](https://www.americanas.com.br/).
 
 ❤️ And I really love coffee.
 
